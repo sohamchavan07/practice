@@ -1,4 +1,4 @@
-class Person 
+class Person
   @count = 0
 
     def initilize
