@@ -14,3 +14,5 @@ def calculator(a, b, c)
     puts "invalid"
   end
 end
+
+puts(1-1+1*1)

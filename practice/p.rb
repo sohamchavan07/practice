@@ -1,5 +1,5 @@
 class Person
-  @count = 0
+  @@count = 0
 
     def initilize
       @@count += 1
@@ -10,7 +10,6 @@ class Person
     end
 end
 
-Person.new
 Person.new
 
 puts Person.count
