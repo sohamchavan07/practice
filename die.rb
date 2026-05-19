@@ -6,7 +6,7 @@ class Die
   end
 end
 
-dice = [Die.new, Die.new]
+dice = [ Die.new, Die.new ]
 
 dice.each do |die|
   puts die.roll

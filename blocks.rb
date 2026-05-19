@@ -12,10 +12,10 @@ class Arry
   end
 end
 
-['apple', 'bad apple', 'cheery', 'durain'].eachEven do |fruit|
+[ 'apple', 'bad apple', 'cheery', 'durain' ].eachEven do |fruit|
   puts "yum! i just love #{fruit}"
 end
 
-[1, 2, 3, 4, 5].eachEven do |oddBall|
+[ 1, 2, 3, 4, 5 ].eachEven do |oddBall|
   puts "#{oddBall}is not an even num"
 end
